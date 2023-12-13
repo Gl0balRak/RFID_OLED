@@ -4,5 +4,5 @@ bool init_beeper() {
 }
 
 void beep(byte i, byte value) {  
-  ledcWrite(i, value);
+  //ledcWrite(i, value);
 }
